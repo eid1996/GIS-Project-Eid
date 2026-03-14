@@ -1,5 +1,3 @@
 streamlit
-geopandas
 leafmap
-pyarrow
-fiona
+geopandas
